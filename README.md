@@ -1,2 +1,2 @@
 # clone-chan
-a 4chan clone
+a 4chan clone (comming soon...)
